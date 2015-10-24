@@ -4,7 +4,9 @@
   "list": [
     ["welcome", "Welcome to T15 (Creating and Editing Files)"],
     ["intro", "Introduction to the Text Editor"],
-
-    ["exam", "Exam to pass lesson 1"]
+    ["new-file", "Create a new file"],
+    ["open-file", "Open, Save and Close file"],
+    ["edit-file", "Edit file"],
+    ["exam", "Exam to pass lesson 2"]
   ]
 }

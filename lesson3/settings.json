@@ -4,7 +4,11 @@
   "list": [
     ["welcome", "Welcome to T15 (HTML)"],
     ["intro", "Introduction to the Hypertext Markup Language"],
-
+    ["element", "What is an Element"],
+    ["document-elements", "Common Document Elements"],
+    ["html-class", "HTML Classes and Ids"],
+    ["html-style", "HTML Style"],
+    ["anchor-links", "HTML Links"],
     ["exam", "Exam to pass lesson 3"]
   ]
 }

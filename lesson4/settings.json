@@ -4,7 +4,13 @@
   "list": [
     ["welcome", "Welcome to T15 (Git)"],
     ["intro", "Introduction to the Git Version Ctrl"],
-
+    ["new-git", "Create a new Git Repository"],
+    ["add-git", "Add files to git"],
+    ["commit-git", "Commit to git repository"],
+    ["setup-remote", "Setup remote repository"],
+    ["push-git", "Pushing Changes to git"],
+    ["clone-git", "Checking out git repository"],
+    ["tag-git", "Tagging releases"],
     ["exam", "Exam to pass lesson 4"]
   ]
 }
