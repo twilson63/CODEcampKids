@@ -3,7 +3,7 @@
 var adventure = require('adventure')
 var shop = adventure({
   name: 'Cadet Lesson 1',
-  command: 'cl1a'
+  command: 'cal1'
 })
 
 var problems = [
