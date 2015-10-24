@@ -32,19 +32,18 @@ A menu should be displayed, choose welcome and begin.
 
 ## FAQ
 
-* What if I have a chromebook?
+* What if I have a chromebook? (Use Online IDE)
 
-  * [NitrousIO](https://www.nitrous.io) - Is a free online development
-    environment that works well
+  * [NitrousIO](https://www.nitrous.io)
   * [Cloud9](https://c9.io)
 
 * What if I have trouble running the lesson?
 
-    post an [ISSUE](issues) and someone will help you out
+    see GH-1
 
 * I am a developer and can I contribute to the lesson?
 
-    yes, clone the repo and read the CONTRIBUTING.md
+    [CONTRIBUTING](CONTRIBUTING.md)
 
 ## LICENSE
 
