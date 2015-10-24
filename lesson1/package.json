@@ -4,7 +4,7 @@
   "description": "Cyber Academy Lesson 1 - Command Line",
   "main": "runner.js",
   "bin": {
-    "cal1": "node runner.js"
+    "cal1": "runner.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"

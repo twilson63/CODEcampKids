@@ -8,7 +8,7 @@ Cadet.
 
 ## Requirements
 
-* You must have a command-line shell.
+* Command-line shell.
 
 Windows Users - install https://github.com/msysgit/
 Mac Users - go to launchpad - other - terminal
