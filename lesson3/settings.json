@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Lesson 3",
+  "command": "cal3",
+  "list": [
+    ["welcome", "Welcome to T15 (HTML)"],
+    ["intro", "Introduction to the Hypertext Markup Language"],
+
+    ["exam", "Exam to pass lesson 3"]
+  ]
+}
