@@ -8,15 +8,9 @@ Cadet.
 
 ## Requirements
 
-* Command-line shell.
+  see [REQUIREMENTS](../REQUIREMENTS.md)
 
-  - Windows Users - install https://github.com/msysgit/
-  - Mac Users - go to launchpad - other - terminal
-  - Ubuntu - Dash - More Apps - Terminal or (Ctrl + Alt + T)
-
-* NodeJS - Version 4.2.1 or greater
-
-  - https://nodejs.org/downloads
+## install
 
 *  Cyber Academy Lesson 1 or cal1
 
@@ -32,22 +26,11 @@ A menu should be displayed, choose welcome and begin.
 
 ## FAQ
 
-* What if I have a chromebook? (Use Online IDE)
-
-  * [NitrousIO](https://www.nitrous.io)
-  * [Cloud9](https://c9.io)
-
-* What if I have trouble running the lesson?
-
-    see [ISSUES](../issues)
-
-* I am a developer and can I contribute to the lesson?
-
-    [CONTRIBUTING](CONTRIBUTING.md)
+  see [FAQ](../FAQ.md)
 
 ## LICENSE
 
-see LICENSE
+see [LICENSE](../LICENSE)
 
 ## COPYRIGHT
 
