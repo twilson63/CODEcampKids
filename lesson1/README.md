@@ -10,23 +10,23 @@ Cadet.
 
 * Command-line shell.
 
-Windows Users - install https://github.com/msysgit/
-Mac Users - go to launchpad - other - terminal
-Ubuntu - Dash - More Apps - Terminal or (Ctrl + Alt + T)
+  - Windows Users - install https://github.com/msysgit/
+  - Mac Users - go to launchpad - other - terminal
+  - Ubuntu - Dash - More Apps - Terminal or (Ctrl + Alt + T)
 
 * NodeJS - Version 4.2.1 or greater
 
-https://nodejs.org/downloads
+  - https://nodejs.org/downloads
 
 *  Cyber Academy Lesson 1 or cal1
 
-    npm install cal1 -g
+  - `npm install cal1 -g`
 
 ## How to train
 
 Once you have all the requirements, open up a terminal and type:
 
-    cal1
+  - `cal1`
 
 A menu should be displayed, choose welcome and begin.
 
@@ -40,11 +40,11 @@ A menu should be displayed, choose welcome and begin.
 
 * What if I have trouble running the lesson?
 
-post an [ISSUE](issues) and someone will help you out
+    post an [ISSUE](issues) and someone will help you out
 
 * I am a developer and can I contribute to the lesson?
 
-yes, clone the repo and read the CONTRIBUTING.md
+    yes, clone the repo and read the CONTRIBUTING.md
 
 ## LICENSE
 
