@@ -32,6 +32,12 @@ A menu should be displayed, choose welcome and begin.
 
 ## FAQ
 
+* What if I have a chromebook?
+
+  * [NitrousIO](https://www.nitrous.io) - Is a free online development
+    environment that works well
+  * [Cloud9](https://c9.io)
+
 * What if I have trouble running the lesson?
 
 post an [ISSUE](issues) and someone will help you out
