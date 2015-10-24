@@ -39,7 +39,7 @@ A menu should be displayed, choose welcome and begin.
 
 * What if I have trouble running the lesson?
 
-    see GH-1
+    see [ISSUES](../issues)
 
 * I am a developer and can I contribute to the lesson?
 
