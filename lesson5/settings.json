@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Lesson 5",
+  "command": "cal5",
+  "list": [
+    ["welcome", "Welcome to T15 (CSS)"],
+    ["intro", "Introduction to Cascading Stylesheets"],
+
+    ["exam", "Exam to pass lesson 5"]
+  ]
+}

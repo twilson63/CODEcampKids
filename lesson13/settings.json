@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Lesson 13",
+  "command": "cal13",
+  "list": [
+    ["welcome", "Welcome to T15 Lesson 13"],
+    ["intro", "Building a Robot/Rover"],
+
+    ["exam", "Exam to pass lesson 13"]
+  ]
+}
