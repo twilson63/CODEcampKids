@@ -1,15 +1,12 @@
 exports.problem = `
-pwd - shell command that returns the location directory name that you
-are in. Think of it as the 'you are here' notifications that you may see
-at a mall or airport. The 'pwd' command will let you know your current location.
+pwd
 
-In this exercise, we want to practice using the pwd command. It comes with a
-few options:
+is a command that returns the current directory or working directory.
+pwd actually stands for 'print working directory'. Similar to the 'you are here'
+notifications that you may see at a mall. The 'pwd' command will let you know
+your current location.
 
--L : Display the logical directory
--P : Display the physical current working directory
-
-If no arguments are specified the '-L' is assumed.
+In this exercise, we want to practice using the pwd command.
 
 In the command-line, type 'pwd' to determine the logical directory.
 

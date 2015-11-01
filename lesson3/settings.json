@@ -4,11 +4,23 @@
   "list": [
     ["welcome", "Welcome to T15 (HTML)"],
     ["intro", "Introduction to the Hypertext Markup Language"],
-    ["element", "What is an Element"],
-    ["document-elements", "Common Document Elements"],
+    ["element", "What is an Tag/Element"],
+    ["p", "Paragraph Tag"],
+    ["h1", "Header 1 Tag"],
+    ["exercise1", "Convert MadLibs to paragraphs"],
+    ["list", "List Elements"],
+    ["table", "Table Elements"],
+    ["anchor", "Anchor Elements"],
+    ["exercise5", "link list to madlibs"],
+    ["div", "div - Box of Text"],
+    ["span", "span - Inline Element"],
+    ["image", "Image Element"],
+    ["attributes", "Element Attributes"],
+    ["form", "Form Elements"],
+    ["document", "About an HTML Document"],
     ["html-class", "HTML Classes and Ids"],
     ["html-style", "HTML Style"],
     ["anchor-links", "HTML Links"],
-    ["exam", "Exam to pass lesson 3"]
+    ["exam", "Build a profile page for your avatar"]
   ]
 }

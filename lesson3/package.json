@@ -2,7 +2,8 @@
   "name": "lesson3",
   "version": "1.0.0",
   "description": "Hypertext Markup Language HTML",
-  "main": "runner.js","bin": {
+  "main": "runner.js",
+  "bin": {
     "cal3": "runner.js"
   },
   "scripts": {
@@ -10,5 +11,8 @@
   },
   "keywords": [],
   "author": "Tom",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "adventure": "^2.11.0"
+  }
 }

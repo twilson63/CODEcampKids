@@ -5,8 +5,18 @@
     ["welcome", "Welcome to T15 (Creating and Editing Files)"],
     ["intro", "Introduction to the Text Editor"],
     ["new-file", "Create a new file"],
-    ["open-file", "Open, Save and Close file"],
-    ["edit-file", "Edit file"],
-    ["exam", "Exam to pass lesson 2"]
+    ["file-basics", "Open, Save and Close file"],
+    ["arrow-keys", "Move around a file"],
+    ["cutcopypaste", "Cut, Copy, Paste"],
+    ["exercise1", "Exercise MadLibs"],
+    ["exercise1b", "Add Keys to document"],
+    ["exercise2a", "Short Story about why Cyber Academy"],
+    ["exercise2b", "Replace three different nouns with [noun#]"],
+    ["exercise2b", "Replace two different adjectives with [adjective#]"],
+    ["exercise2b", "Replace two different verbs with [verb#]"],
+    ["exercise2c", "Create MadLib Key"],
+    ["exercise2d", "Work with partner to complete"],
+
+    ["exam", "Create your own madlib from these themes"]
   ]
 }
