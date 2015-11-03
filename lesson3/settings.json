@@ -9,18 +9,21 @@
     ["h1", "Header 1 Tag"],
     ["exercise1", "Convert MadLibs to paragraphs"],
     ["list", "List Elements"],
+    ["webpage", "About Web Page"],
     ["table", "Table Elements"],
     ["anchor", "Anchor Elements"],
-    ["exercise5", "link list to madlibs"],
-    ["div", "div - Box of Text"],
-    ["span", "span - Inline Element"],
+    ["webpage2", "Exploring Schedule"],
     ["image", "Image Element"],
     ["attributes", "Element Attributes"],
+    ["webpage3", "Home page and Photo"],
+
+    ["div", "div - Box of Text"],
+    ["span", "span - Inline Element"],
+
     ["form", "Form Elements"],
     ["document", "About an HTML Document"],
     ["html-class", "HTML Classes and Ids"],
     ["html-style", "HTML Style"],
-    ["anchor-links", "HTML Links"],
-    ["exam", "Build a profile page for your avatar"]
+    ["anchor-links", "HTML Links"]
   ]
 }
