@@ -1,0 +1,11 @@
+{
+  "name": "Cadet Training Getting Started",
+  "command": "cal0",
+  "list": [
+    ["intro", "Introduction Cyber Academy"],
+    ["about", "About this Course"],
+    ["setup", "Lets get Setup"],
+    ["theme", "About the theme"],
+    ["tools", "Check out tools"]
+  ]
+}
