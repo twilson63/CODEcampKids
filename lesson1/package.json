@@ -1,5 +1,5 @@
 {
-  "name": "cal1",
+  "name": "@codecampkids/cal1",
   "version": "1.0.1",
   "description": "Cyber Academy Lesson 1 - Command Line",
   "main": "runner.js",

@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "Tom",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "adventure": "^2.11.0"
+  }
 }
