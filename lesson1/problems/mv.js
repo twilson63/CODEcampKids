@@ -1,3 +1,5 @@
+exports.verify = (args, cb) => cb(true)
+
 exports.problem = `
 
 mv - the command that moves a file from one directory to another, or renames the

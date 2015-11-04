@@ -1,3 +1,5 @@
+exports.verify = (args, cb) => cb(true)
+
 exports.problem `
 
 rm - is a command that will remove or delete a specified file.

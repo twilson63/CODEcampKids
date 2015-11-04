@@ -1,3 +1,5 @@
+exports.verify = (args, cb) => cb(true)
+
 exports.problem = `
 
 h1 tag

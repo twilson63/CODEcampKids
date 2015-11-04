@@ -1,3 +1,4 @@
+exports.verify = (args, cb) => cb(true)
 exports.problem = `
 ls
 

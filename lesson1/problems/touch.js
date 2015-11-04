@@ -1,3 +1,5 @@
+exports.verify = (args, cb) => cb(true)
+
 exports.problem = `
 
 touch - the command that is used to create a file from the command-line.

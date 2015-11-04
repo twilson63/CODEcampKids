@@ -1,3 +1,5 @@
+exports.verify = (args, cb) => cb(true)
+
 exports.problem = `
 
 Create a new text file
