@@ -6,19 +6,19 @@ Build a Web Page
 In this exercise, we will take the html we just learned and start to put together
 a web page.
 
-* Create a new directory called '[Your Advatar name]'
+* Create a new directory called '[Your Avatar name]'
 * cd into that directory, and create a new file called 'about.html'
 
-Use these questions to create an about profile page for your ADVATAR.
+Use these questions to create an about profile page for your AVATAR.
 
-* What is your advatar's name?  Add it as a 'h1' tag.
+* What is your avatar's name?  Add it as a 'h1' tag.
 
-* Where is your advatar from, age, species? Add this in a a 'p' as a sentence:
+* Where is your avatar from, age, species? Add this in a a 'p' as a sentence:
 
     <p>Quark is a plunkit from the outer galaxy system of zendar, and he is 12
     years old.</p>
 
-* create a list of your [ADVATAR]'s favorite things
+* create a list of your [AVATAR]'s favorite things
 
     <h2>Favorite Activities</h2>
     <ul>
@@ -29,7 +29,7 @@ Use these questions to create an about profile page for your ADVATAR.
     </ul>
 
 
-When you have finished creating your [ADVATAR]'s about.html, save the file, then
+When you have finished creating your [AVATAR]'s about.html, save the file, then
 open the file in your web browser.
 
 Open 'chrome' and click on the file menu and then click on the 'Open File' selection,

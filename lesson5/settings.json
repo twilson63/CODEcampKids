@@ -5,6 +5,18 @@
     ["welcome", "Welcome to T15 (CSS)"],
     ["intro", "Introduction to Cascading Stylesheets"],
 
+    ["inline", "Creating inline styles"],
+    ["tag", "Styles by tags"],
+    ["class", "CSS Class Names"],
+    ["id", "Style by id"],
+
+    ["grid", "Create a grid"],
+    ["row-and-col", "define row and column"],
+    ["offset", "creae an offset column"],
+
+    ["fonts", "Fonts"],
+    ["colors", "Setup your own colors"],
+    
     ["exam", "Exam to pass lesson 5"]
   ]
 }

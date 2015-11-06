@@ -17,7 +17,7 @@ spotlight search box.
 Once the terminal appears, lets confirm you have 'npm' installed and todays lessons
 installed.
 
-    npm i cali -g
+    npm i cal0 -g
     npm i cal1 -g
     npm i cal2 -g
     npm i cal3 -g

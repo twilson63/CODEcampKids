@@ -1,4 +1,12 @@
-exports.verify = (args, cb) => cb(true)
+var fs = require('fs')
+exports.verify = (args, cb) => {
+  try {
+    fs.statSync('projects')
+    cb(true)
+  } catch (e) {
+    cb(false)
+  }
+}
 
 exports.problem = `
 
@@ -27,4 +35,8 @@ Then run
 
     $ADVENTURE_COMMAND verify
 
-  `
+`
+
+exports.solution = `
+mkdir projects
+`

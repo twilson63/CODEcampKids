@@ -1,3 +1,13 @@
+var fs = require('fs')
+exports.verify = (args, cb) => {
+  try {
+    fs.statSync('myfile')
+    cb(true)
+  } catch (e) {
+    cb(false)
+  }
+}
+
 exports.verify = (args, cb) => cb(true)
 
 exports.problem = `
@@ -16,4 +26,7 @@ directory create three files: larry, curly and moe then run:
 
   $ADVENTURE_COMMAND verify
 
+`
+exports.solution = `
+touch myfile
 `

@@ -20,11 +20,11 @@ overall document.
 
 There are a total of 6 different heading commands: h1, h2, h3, h4, h5, h6
 
-In this exercise, create a html document which wraps the name of your ADVATAR
-in a h1 tag then in a paragraph write a couple of sentences about the ADVATAR
+In this exercise, create a html document which wraps the name of your AVATAR
+in a h1 tag then in a paragraph write a couple of sentences about the AVATAR
 bio.
 
-What does your ADVATAR like to do for fun on a saturday?  What sports does your
+What does your AVATAR like to do for fun on a saturday?  What sports does your
 avatar like? What movies does your avatar like.
 
 When you have created a h1 tag and two p tags, then verify your document:

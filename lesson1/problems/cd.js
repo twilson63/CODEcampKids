@@ -1,4 +1,8 @@
-exports.verify = (args, cb) => cb(true)
+exports.verify = (args, cb) => {
+  if (args[0] !== 'dir2') return cb(false)
+  cb(true)
+}
+
 
 exports.problem = `
 
@@ -24,16 +28,17 @@ untils you reach the root of the directory.
 
 You file system is structured like a trees root system:
 
-                           [root]
-                             |
-                            / \
-                      [dir1]   [dir2]
-                        |        |
-                       / \        \
-                  [dir3] [dir4]    [dir5]
-                    |                 |
-                   / \               / \
-             [dir6]  [dir7]     [dir8]  [dir9]
+                           [root]                                              |
+                             |                                                 |
+                            / \\                                                |
+                      [dir1]   [dir2]                                          |
+                        |         |                                            |
+                       / \\         \\                                           |
+                  [dir3] [dir4]    [dir5]                                      |
+                    |                 |                                        |
+                   / \\               / \\                                       |
+             [dir6]  [dir7]     [dir8]  [dir9]                                 |
+
 
 
 If I start in root and I run the following commands:

@@ -44,15 +44,20 @@ with the two file as arguments
 `
 
 exports.verify = (args, cb) => {
-  console.log(process.cwd())
-  if (process.cwd() === args.join(' ')) {
-    console.log('You passed!')
+  if (~['meteor.html', 'comet.html'].indexOf(args[0]) && ~['meteor.html', 'comet.html'].indexOf(args[1])) {
     return cb(true)
   }
+  return cb(false)
 }
 
+var fs = require('fs')
+
 exports.run = (args, cb) => {
-  console.log(process.cwd())
-  console.log(args)
-  console.log(process.cwd() === args.join(' '))
+  fs.writeFileSync('meteor.html', '<h1>Meteor</h1>')
+  fs.writeFileSync('comet.html', '<h1>Flying Comet</h1>')
+  console.log('run ls')
 }
+
+exports.solution = `
+$ADVENTURE_COMMAND verify meteor.html comet.html 
+`

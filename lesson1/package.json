@@ -17,6 +17,7 @@
     "babel": "^5.8.23"
   },
   "dependencies": {
-    "adventure": "^2.11.0"
+    "adventure": "^2.11.0",
+    "mkdirp": "^0.5.1"
   }
 }

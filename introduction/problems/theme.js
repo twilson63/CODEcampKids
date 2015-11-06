@@ -3,11 +3,6 @@ exports.verify = (args, cb) => cb(true)
 exports.problem = `
 The Theme
 
-(_   _)( )
-  | |  | |_  ___  __  __  ___
-  ( )  ( _ )( o_)( _`'_ )( o_)
-  /_\  /_\|| \(  /_\`'/_\ \(
-
 The theme or story, everyone needs to pick a name for their Avatar?
 
 What is an Avatar?

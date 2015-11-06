@@ -5,13 +5,13 @@
     ["welcome", "Welcome to T15 (Git)"],
     ["intro", "Introduction to the Git Version Ctrl"],
     ["init-git", "Creating a git repository"],
-    ["clone-git", "Checking out git repository"],
     ["add-git", "Add files to git"],
     ["commit-git", "Commit to git repository"],
     ["setup-remote", "Setup remote repository"],
     ["push-git", "Pushing Changes to git"],
     ["new-git", "Create a new Git Repository"],
     ["tag-git", "Tagging releases"],
+    ["clone-git", "Checking out git repository"],
     ["exam", "Exam to pass lesson 4"]
   ]
 }
