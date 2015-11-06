@@ -1,6 +1,6 @@
 {
   "name": "cal0",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Overview of the entire course",
   "main": "runner.js",
   "bin": {

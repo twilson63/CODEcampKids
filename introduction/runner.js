@@ -1,11 +1,11 @@
-#!/usr/bin/env node --harmony_destructuring
+#!/usr/bin/env node
 
 var adventure = require('adventure')
-var { name, command, list } = require('./settings.json')
+var settings = require('./settings.json')
 
-var shop = adventure({ name, command })
+var shop = adventure({ name: settings.name, command: settings.command })
 
-list.forEach(function (p) {
+settings.list.forEach(function (p) {
   shop.add(p.join(' - '), () => require(__dirname + `/problems/${p[0]}`))
 })
 

@@ -5,7 +5,6 @@
     ["intro", "Introduction Cyber Academy"],
     ["about", "About this Course"],
     ["setup", "Lets get Setup"],
-    ["theme", "About the theme"],
-    ["tools", "Check out tools"]
+    ["theme", "About the theme"]
   ]
 }
