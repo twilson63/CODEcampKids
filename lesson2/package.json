@@ -1,6 +1,6 @@
 {
   "name": "cal2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The Text Editor,",
   "main": "runner.js",
   "bin": {
@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "Tom",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "adventure": "^2.11.0"
+  }
 }
