@@ -1,3 +1,16 @@
+var fs = require('fs')
+exports.run = (args) => fs.writeFileSync('cutcopypaste.html', `
+Lorem ipsum dolor sit amet, nobis evertitur id duo, et facete detraxit ius. In sea homero mediocrem, aeque zril consul ea pro. Mea altera noster persius eu. No per amet cetero imperdiet, ne vel nihil regione impedit.
+
+Prima percipit conclusionemque nec id, ut alia modus aliquando mel. Ea per graece malorum. Facer consulatu pri in. Eu zril altera possit his, prima consul necessitatibus no duo. Nonumy mediocrem eos ut.
+
+Quo omittantur philosophia theophrastus eu. Semper impetus ut nam, exerci mollis at nec. Cibo inani deterruisset eu mea. Pro cu alii eleifend philosophia, quo cu malis integre.
+
+At ancillae volutpat sea. Docendi denique constituto at nam, mei scripta argumentum te, et pro quot fabellas. Mollis adipiscing scriptorem cu mei. Eos sonet dolores honestatis ex, meis erant facete qui ex.
+
+Iuvaret convenire sit ea. Probo audire nominati et vel, sed in everti tamquam laboramus, ius solum perpetua scripserit et. In vim meliore gloriatur mediocritatem. Ut cum prima tantas appareat, liber aperiam eu eam. Et rebum mediocritatem has, mea id omittam platonem constituam. Fugit erant oratio cu vel. Usu laboramus interpretaris ne, cum habemus expetenda mediocritatem in, offendit epicurei contentiones at eum.
+`)
+
 exports.verify = (args, cb) => cb(true)
 
 exports.problem = `
@@ -31,15 +44,9 @@ Create a file called cutcopypaste.html by running the $ADVENTURE_COMMAND run com
 
 Now open the cutcopypaste.html in your editor
 
-  use the 'arrow' keys to highlight the first paragraph and use
+  use the 'arrow' keys to highlight the first paragraph and we will walk through
 
-  'cmd' (mac) or 'ctrl' (chromebook) + the 'x' key to cut the paragraph
-
-  then use the 'cmd' (mac) or 'ctrl' (chromebook) + the 'down' arrow to move to the
-  end of the file. Create a new line by pressing the 'enter' key.
-
-  and the 'cmd' (mac) or 'ctrl' (chromebook) + the 'v' key to paste the contents
-  into the bottom of the text file.
+  cut and paste
 
   run the verify command
 

@@ -2,7 +2,6 @@
   "name": "Cadet Lesson 2",
   "command": "cal2",
   "list": [
-    ["welcome", "Welcome to T15 (Creating and Editing Files)"],
     ["intro", "Introduction to the Text Editor"],
     ["new-file", "Create a new file"],
     ["file-basics", "Open, Save and Close file"],
