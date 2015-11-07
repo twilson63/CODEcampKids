@@ -1,0 +1,345 @@
+.avatar-card-image__filename {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.mdl-card__actions {
+  height: 52px;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.i01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/I01.png') center / cover;
+}
+
+.i02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/I02.png') center / cover;
+}
+
+.i03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/I03.png') center / cover;
+}
+
+.i04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/I04.png') center / cover;
+}
+
+.i05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/I05.png') center / cover;
+}
+
+.h01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/H01.png') center / cover;
+}
+
+.h02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/H02.png') center / cover;
+}
+
+.h03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/H03.png') center / cover;
+}
+
+.h04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/H04.png') center / cover;
+}
+
+.h05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/H05.png') center / cover;
+}
+
+.g01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/G01.png') center / cover;
+}
+
+.g02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/G02.png') center / cover;
+}
+
+.g03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/G03.png') center / cover;
+}
+
+.g04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/G04.png') center / cover;
+}
+
+.g05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/G05.png') center / cover;
+}
+
+
+
+.f01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/F01.png') center / cover;
+}
+
+.f02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/F02.png') center / cover;
+}
+
+.f03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/F03.png') center / cover;
+}
+
+.f04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/F04.png') center / cover;
+}
+
+.f05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/F05.png') center / cover;
+}
+
+
+.e01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/E01.png') center / cover;
+}
+
+.e02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/E02.png') center / cover;
+}
+
+.e03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/E03.png') center / cover;
+}
+
+.e04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/E04.png') center / cover;
+}
+
+.e05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/E05.png') center / cover;
+}
+
+.d01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/D01.png') center / cover;
+}
+
+.d02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/D02.png') center / cover;
+}
+
+.d03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/D03.png') center / cover;
+}
+
+.d04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/D04.png') center / cover;
+}
+
+.d05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/D05.png') center / cover;
+}
+
+.c01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/C01.png') center / cover;
+}
+
+.c02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/C02.png') center / cover;
+}
+
+.c03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/C03.png') center / cover;
+}
+
+.c04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/C04.png') center / cover;
+}
+
+.c05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/C05.png') center / cover;
+}
+
+.b01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/B01.png') center / cover;
+}
+
+.b02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/B02.png') center / cover;
+}
+
+.b03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/B03.png') center / cover;
+}
+
+.b04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/B04.png') center / cover;
+}
+
+.b05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/B05.png') center / cover;
+}
+
+
+.a01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/A01.png') center / cover;
+}
+
+.a02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/A02.png') center / cover;
+}
+
+.a03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/A03. png') center / cover;
+}
+
+.a04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/A04.png') center / cover;
+}
+
+.a05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Males/A05.png') center / cover;
+}
+
+.fb01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FB01.png') center / cover;
+}
+
+.fb02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FB02.png') center / cover;
+}
+
+.fb03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FB03.png') center / cover;
+}
+
+.fa04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FB04.png') center / cover;
+}
+
+.fa05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FB05.png') center / cover;
+}
+
+.fa01-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FA01.png') center / cover;
+}
+
+.fa02-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FA02.png') center / cover;
+}
+
+.fa03-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FA03.png') center / cover;
+}
+
+.fa04-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FA04.png') center / cover;
+}
+
+.fa05-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('Females/FA05.png') center / cover;
+}

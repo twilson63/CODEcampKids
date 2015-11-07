@@ -1,0 +1,16 @@
+{
+  "name": "avatars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "hyperscript": "^1.4.7",
+    "material-design-lite": "^1.0.6"
+  }
+}

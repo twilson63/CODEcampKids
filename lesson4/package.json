@@ -1,6 +1,6 @@
 {
   "name": "cal4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Git Version Control",
   "main": "runner.js",
   "bin": {
