@@ -9,14 +9,8 @@
     ["arrow-keys", "Move around a file"],
     ["cutcopypaste", "Cut, Copy, Paste"],
     ["exercise1", "Exercise MadLibs"],
-    ["exercise1b", "Add Keys to document"],
-    ["exercise2a", "Short Story about why Cyber Academy"],
-    ["exercise2b", "Replace three different nouns with [noun#]"],
-    ["exercise2b", "Replace two different adjectives with [adjective#]"],
-    ["exercise2b", "Replace two different verbs with [verb#]"],
-    ["exercise2c", "Create MadLib Key"],
-    ["exercise2d", "Work with partner to complete"],
-    ["find", "command f to find"],
-    ["exam", "Create your own madlib from these themes"]
+    ["exercise2", "Short Story about why Cyber Academy"],
+    ["spongebob", "SpongeBob Song Madlib"],
+    ["exam", "Take your favorite fun song and create a madlib"]
   ]
 }
