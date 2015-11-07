@@ -1,6 +1,6 @@
 {
   "name": "cal2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Text Editor,",
   "main": "runner.js",
   "bin": {

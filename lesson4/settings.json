@@ -12,6 +12,7 @@
     ["new-git", "Create a new Git Repository"],
     ["tag-git", "Tagging releases"],
     ["clone-git", "Checking out git repository"],
+    ["deploy-app", "Lets deploy our first web site"],
     ["exam", "Exam to pass lesson 4"]
   ]
 }
